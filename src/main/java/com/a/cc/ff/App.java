@@ -21,5 +21,9 @@ public class App
     void master2() {
     	
     }
+    void m1() {
+    	
+    }
+    
 }
 
