@@ -8,11 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {//fefe
-    	//othoer:1
-    	//other:2
-    	//test1
         System.out.println( "Hello World!" );
     }
     
-    
+    public void a() {
+    	
+    }
+   
 }
