@@ -8,6 +8,9 @@ package com.a.cc.ff;
 public class App 
 {
 
+	int p1;
+	
+	int p2;
 	
     public static void main( String[] args )
     {
@@ -15,5 +18,8 @@ public class App
     }
     
 
+    void m1() {
+    	
+    }
 }
 
