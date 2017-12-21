@@ -17,5 +17,9 @@ public class App
     void master1() {
     	
     }
+    
+    void master2() {
+    	
+    }
 }
 
