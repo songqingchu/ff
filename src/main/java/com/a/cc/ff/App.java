@@ -14,4 +14,8 @@ public class App
     }
     
     
+    void method2() {
+    	
+    }
+    
 }
