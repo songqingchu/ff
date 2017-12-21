@@ -8,7 +8,8 @@ package com.a.cc.ff;
 public class App 
 {
     
-    
+    int a21;
+	
 	
     public static void main( String[] args )
     {
