@@ -14,5 +14,8 @@ public class App
         System.out.println( "Hello World!" );
     }
     
+    void master1() {
+    	
+    }
 }
 
