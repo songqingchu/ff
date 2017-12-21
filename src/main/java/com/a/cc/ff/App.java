@@ -9,7 +9,6 @@ public class App
 {
     //a
     //b
-	//c
 	
     public static void main( String[] args )
     {
