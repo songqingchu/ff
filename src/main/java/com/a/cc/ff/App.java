@@ -28,5 +28,9 @@ public class App
     void m2() {
     	
     }
+    
+    void m3() {
+    	
+    }
 }
 
