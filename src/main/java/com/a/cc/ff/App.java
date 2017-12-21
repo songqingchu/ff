@@ -25,5 +25,8 @@ public class App
     	
     }
     
+    void m2() {
+    	
+    }
 }
 
