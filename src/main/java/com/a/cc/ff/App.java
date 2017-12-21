@@ -10,4 +10,9 @@ public class App
     {//fefe
         System.out.println( "Hello World!" );
     }
+    
+    public void a() {
+    	
+    }
+   
 }
