@@ -17,7 +17,7 @@ public class App
         System.out.println( "Hello World!" );
     }
     
-    void method 21() {
+    void  method21() {
     	
     }
 }
