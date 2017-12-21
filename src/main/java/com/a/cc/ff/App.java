@@ -10,6 +10,7 @@ public class App
     
     int a21;
 	
+    int a22;
 	
     public static void main( String[] args )
     {
