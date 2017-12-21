@@ -14,5 +14,9 @@ public class App
         System.out.println( "Hello World!" );
     }
     
+    void m1() {
+    	
+    }
+    
 }
 
