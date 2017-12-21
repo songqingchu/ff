@@ -8,26 +8,11 @@ package com.a.cc.ff;
 public class App 
 {
 
-	int p1;
-	
-	int p2;
-	
+
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
     
-
-    void m1() {
-    	
-    }
-    
-    void m2() {
-    	
-    }
-    
-    void masterm1() {
-    	
-    }
 }
 
