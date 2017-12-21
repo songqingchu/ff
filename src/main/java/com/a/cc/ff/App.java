@@ -7,7 +7,7 @@ package com.a.cc.ff;
 public class App 
 {
     public static void main( String[] args )
-    {
+    {//fefe
         System.out.println( "Hello World!" );
     }
 }
