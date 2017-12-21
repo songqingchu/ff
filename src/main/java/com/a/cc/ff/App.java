@@ -14,7 +14,7 @@ public class App
     }
     
     
-    void method2() {
+    void method21() {
     	
     }
     
